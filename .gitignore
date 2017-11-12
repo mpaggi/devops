@@ -1,0 +1,7 @@
+*.key
+*.key.pub
+.travis/*.key
+.travis/*.key.pub
+.terraform
+.terraform/*
+terraform.*
